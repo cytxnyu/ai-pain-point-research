@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI痛点雷达"
+  short_description: "从中国社区真实求助中发现普通人学习AI和从零上手的具体痛点，附来源与数据口径"
+  default_prompt: "使用 $ai-pain-point-research 调研最近30天中国AI小白的真实求助，寻找从零上手和实际操作卡点，给出带来源、日期和数据口径的选题。"
